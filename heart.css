@@ -1,0 +1,27 @@
+.box{
+    background-color: red;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    rotate: 45deg;
+    margin: 0 10px;
+    top: 31px;
+    left:30px;
+    position: relative;
+}
+.round1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    left: 16px;
+}
+.round2{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    left: 79.8px;
+}
